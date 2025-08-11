@@ -122,6 +122,26 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
 
+  # Working:
+[![Watch the video](https://img.youtube.com/vi/UNDE3erIjnU/0.jpg)](https://youtu.be/UNDE3erIjnU)
+
+<h2>Examples :</h2>
+<p><b>NOTE:- All images below are project output screenshots that I created for demonstration purposes.</b></p>
+
+<img src="images/image1.png" width="400">
+<img src="images/image2.png" width="400">
+<img src="images/image3.png" width="400">
+<img src="images/image5.png" width="400">
+<img src="images/image6.png" width="400">
+<img src="images/image7.png" width="400">
+<img src="images/image8.png" width="400">
+<img src="images/image9.png" width="400">
+<img src="images/image10.png" width="400">
+<img src="images/image11.png" width="400">
+<img src="images/image12.png" width="400">
+<img src="images/image13.png" width="400">
+
+
 # Troubleshooting
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
@@ -135,3 +155,5 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+- 
